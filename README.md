@@ -11,17 +11,17 @@
 <br>
 
 
-- 🔭 I'm currently a Junior Software Enginner in [Vish Gyana Technology Solutions](https://vgts.tech/index.html)
+- 🔭 I'm currently a Junior Software Engineer in [Vish Gyana Technology Solutions](https://vgts.tech/index.html)
 
-- 🌱 I’m currently learning **Next.js, React.js, TailwindCSS**
+- 🌱 I’m currently learning **Threejs, GSAP, Sanity.io and NextJS**
 
 - 👯 I’m looking to collaborate on **any open source and personal projects.**
 
 - 📝 I write articles on [Hashnode - sharathlingam](https://sharathlingam.hashnode.dev/)
 
-- 📫 How to reach me **<a href="mailto:sharathprof1517@gmail.com">sharathprof1517@gmail.com</a>**
+- 📫 How to reach me **<a href="mailto:sharathlingam.s@gmail.com">sharathprof1517@gmail.com</a>**
 
-- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAFmO1MihGw/sru1exeNW6AKwwgTA_dK4g/edit?utm_content=DAFmO1MihGw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1Jvpsz0XP6H-ZXQhLbykTEl6CyES2zJfCD8TeSlx0ZUU/edit?usp=sharing)
 
 <br>
 
